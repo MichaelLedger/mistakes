@@ -1,0 +1,18 @@
+{
+  "answerText" : "",
+  "clips" : [
+    {
+      "file" : "q0.jpg",
+      "ocrText" : "姓名\n一、用”\n1.丝绦（tao）\n2.茁壮（zhuo）\n3.异常（yi）\n”画出每组加点字的错误读音，并改正在括号里。（3分）\n遮少\n杜鹃（zhuan）\n（Juan）\n泥泞（ning）\n（ning）\n幅（ge）\n巷（xiang）\n（ge）",
+      "role" : "question"
+    }
+  ],
+  "errorReasons" : [
+
+  ],
+  "id" : "e2248666-2954-4f76-b49c-eaac95aed91a",
+  "providerNickname" : "Bob",
+  "questionText" : "姓名\n一、用”\n1.丝绦（tao）\n2.茁壮（zhuo）\n3.异常（yi）\n”画出每组加点字的错误读音，并改正在括号里。（3分）\n遮少\n杜鹃（zhuan）\n（Juan）\n泥泞（ning）\n（ning）\n幅（ge）\n巷（xiang）\n（ge）",
+  "schemaVersion" : 1,
+  "subjectBranch" : "subject-other"
+}

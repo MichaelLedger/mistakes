@@ -1,0 +1,45 @@
+{
+  "answerText" : "",
+  "clips" : [
+    {
+      "file" : "q0.jpg",
+      "ocrText" : "下列实数中，是无理数白是（）\nA （\\sqrt（4））\nB.（\\frac｛22K7｝）\nC.（\\pi）\nD.（0.1010010001）（每两个1之间依次多一个0",
+      "role" : "question"
+    }
+  ],
+  "errorReasons" : [
+    {
+      "id" : "error.misread",
+      "title" : "审题错误"
+    },
+    {
+      "id" : "error.concept",
+      "title" : "概念不清"
+    },
+    {
+      "id" : "error.careless",
+      "title" : "粗心"
+    },
+    {
+      "id" : "error.formula",
+      "title" : "公式用错"
+    }
+  ],
+  "id" : "24d144ab-f802-4d46-9d8b-32b67157ec37",
+  "proficiency" : {
+    "id" : "proficiency.not_yet",
+    "title" : "未掌握"
+  },
+  "providerNickname" : "Bob",
+  "questionText" : "下列实数中，是无理数白是（）\nA （\\sqrt（4））\nB.（\\frac｛22K7｝）\nC.（\\pi）\nD.（0.1010010001）（每两个1之间依次多一个0",
+  "schemaVersion" : 2,
+  "source" : {
+    "id" : "source.homework",
+    "title" : "作业"
+  },
+  "subject" : {
+    "id" : "subject.math",
+    "title" : "数学"
+  },
+  "subjectBranch" : "subject-math"
+}
